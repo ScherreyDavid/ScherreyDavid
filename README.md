@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/111524381/225432418-22fd94a1-9557-42fa-abb5-89d27c2ccc98.png)
 # 💫 About Me:
-🙋‍♂️ All about me is at My Website<br><br>🔭 I’m currently working on Cloud Projects.<br><br>🌱 I’m currently learning Cloud Computing<br><br>👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉<br><br>⚡ Fun fact: I have an Amazon Web Services Certified Cloud Practitioner Certificate and Microsoft Azure Fundamentals Certifcation
+🙋‍♂️ All about me is at My Website<br><br>🔭 I’m currently working on Cloud Projects.<br><br>🌱 I’m currently learning Cloud Computing<br><br>👨‍💻 Life Hack: Learn new tech 🔥 🎉<br><br>⚡ Fun fact: I have an Amazon Web Services Certified Cloud Practitioner Certificate and Microsoft Azure Fundamentals Certifcation
 
 
 ## 🌐 Socials:
